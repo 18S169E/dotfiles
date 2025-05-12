@@ -15,3 +15,5 @@ for module in $XDG_CONFIG_HOME/dotfiles/fish/*.fish
         source $module
     end
 end
+
+
