@@ -10,3 +10,5 @@
 ```bash
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
+安装：
+运行脚本install-dotfiles.sh即可
