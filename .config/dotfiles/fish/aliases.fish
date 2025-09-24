@@ -25,3 +25,5 @@ alias nvconfig 'cd ~/.config/nvim'
 
 # 用来管理dotfiles
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+

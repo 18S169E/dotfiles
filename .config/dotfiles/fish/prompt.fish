@@ -22,3 +22,5 @@ function fish_prompt
     echo -n ' > '
 end
 
+# 设置greeting mseeage
+set -U fish_greeting "U are the best. Now let's work."

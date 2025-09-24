@@ -28,3 +28,8 @@ export AM_HOME=/home/cc/ysyx-workbench/abstract-machine
 export NPC_HOME=/home/cc/ysyx-workbench/npc
 export NVBOARD_HOME=/home/cc/ysyx-workbench/nvboard
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
+
+# nvm
+export NVM_DIR="$HOME/.config/nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

@@ -16,3 +16,4 @@ set -gx NPC_HOME     /home/cc/ysyx-workbench/npc
 set -gx NVBOARD_HOME /home/cc/ysyx-workbench/nvboard
 #set -gx LD_LIBRARY_PATH /usr/local/cuda/lib64 $LD_LIBRARY_PATH
 
+
